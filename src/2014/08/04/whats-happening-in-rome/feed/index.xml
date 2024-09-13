@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: What&#8217;s happening in Rome..	</title>
+	<atom:link href="/2014/08/04/whats-happening-in-rome/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/08/04/whats-happening-in-rome/</link>
+	<description>September 30 + October 1 2014 in Rome, Italy</description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:56:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: What&#8217;s happening in Rome? 2014 Open Hardw...		</title>
+		<link>/2014/08/04/whats-happening-in-rome/#comment-57</link>
+
+		<dc:creator><![CDATA[What&#8217;s happening in Rome? 2014 Open Hardw...]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2014 21:27:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=323#comment-57</guid>
+
+					<description><![CDATA[[&#8230;] The 2014 Open Hardware Summit is, for the first time ever, a two day event featuring speakers, keynotes, and workshops centred on the topic of the Open Source movement! This is the fifth year of the Summit and the first time it will be held outside the USA. What does that mean for attendees?You have the chance to come to Rome and attend multiple awesome events in the span of a few days, from 28 September to 5 October for lnnovation Week!&#160; [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] The 2014 Open Hardware Summit is, for the first time ever, a two day event featuring speakers, keynotes, and workshops centred on the topic of the Open Source movement! This is the fifth year of the Summit and the first time it will be held outside the USA. What does that mean for attendees?You have the chance to come to Rome and attend multiple awesome events in the span of a few days, from 28 September to 5 October for lnnovation Week!&nbsp; [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

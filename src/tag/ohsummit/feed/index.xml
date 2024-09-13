@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ohsummit &#8211; 2014 Open Hardware Summit</title>
+	<atom:link href="/tag/ohsummit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>September 30 + October 1 2014 in Rome, Italy</description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:55:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>All Open Hardware Summit 2014 videos are available!</title>
+		<link>/2014/11/04/i-htm/</link>
+		
+		<dc:creator><![CDATA[Addie Wagenknecht]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2014 14:13:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[2014]]></category>
+		<category><![CDATA[ohsummit]]></category>
+		<category><![CDATA[videos]]></category>
+		<guid isPermaLink="false">/?p=530</guid>
+
+					<description><![CDATA[All the Open Hardware Summit 2014 videos are up and running on Vimeo: please find the full album here! Below, you can find opening remarks by Addie and David Cuartielles: [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p>All the Open Hardware Summit 2014 videos are up and running on Vimeo: please find the full album <a href="https://vimeo.com/album/3114662">here!</a></p>
+<p>Below, you can find opening remarks by Addie and David Cuartielles:</p>
+<p><iframe title="Welcome by Addie Wagenknecht and Opening Remarks by David Cuartielles  (2014 OHS)" src="https://player.vimeo.com/video/110317488?dnt=1&amp;app_id=122963" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write"></iframe></p>
+<p><a href="http://vimeo.com/110317488">Welcome by Addie Wagenknecht and Opening Remarks by David Cuartielles (2014 OHS)</a> from <a href="http://vimeo.com/user14106369">OSHWA</a> on <a href="https://vimeo.com/">Vimeo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">530</post-id>	</item>
+	</channel>
+</rss>

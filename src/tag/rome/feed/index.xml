@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Rome &#8211; 2014 Open Hardware Summit</title>
+	<atom:link href="/tag/rome/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>September 30 + October 1 2014 in Rome, Italy</description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:55:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Open Hardware Summit Livestream</title>
+		<link>/2014/09/23/open-hardware-summit-livestream/</link>
+		
+		<dc:creator><![CDATA[Addie Wagenknecht]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2014 10:18:49 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[open hardware summit]]></category>
+		<category><![CDATA[Rome]]></category>
+		<category><![CDATA[streaming]]></category>
+		<guid isPermaLink="false">/?p=466</guid>
+
+					<description><![CDATA[As you may know, this year Open Hardware Summit is being hosted as one of the events in the Innovation Week Rome. It&#8217;s a week long festival that will end [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p>As you may know, this year Open Hardware Summit is being hosted as one of the events in the <a href="http://www.makerfairerome.eu/en/"><strong>Innovation Week Rome. </strong></a>It&#8217;s a week long festival that will end with the European Maker Faire. All the the events, including the Summit will be taking place at <a href="http://www.auditorium.com/en/info/come-si-arriva">Rome&#8217;s Auditorium</a>. The streaming link for the Summit will be available on both the Innovation Week&#8217;s website and ours.</p>
+<p>The link to the livestream will be published here when it&#8217;s available, so please check back prior to the Summit&#8217;s opening remarks..!</p>
+<p>&nbsp;</p>
+<p><a href="/files/2014/09/Green_screen_live_streaming_production_at_Mediehuset_København.jpg"><img decoding="async" class="alignleft  wp-image-467" src="/files/2014/09/Green_screen_live_streaming_production_at_Mediehuset_København-150x150.jpg" alt="Green_screen_live_streaming_production_at_Mediehuset_København" width="157" height="157" /></a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">466</post-id>	</item>
+		<item>
+		<title>What&#8217;s going to happen on OHsummit Day 2 + How to reach the Venue</title>
+		<link>/2014/09/18/whats-going-to-happen-on-ohsummit-day-2-how-to-reach-the-venue/</link>
+		
+		<dc:creator><![CDATA[Addie Wagenknecht]]></dc:creator>
+		<pubDate>Thu, 18 Sep 2014 12:34:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[day2]]></category>
+		<category><![CDATA[getting there]]></category>
+		<category><![CDATA[Rome]]></category>
+		<category><![CDATA[summit]]></category>
+		<category><![CDATA[unconference]]></category>
+		<guid isPermaLink="false">/?p=445</guid>
+
+					<description><![CDATA[You may have registered for OHSummit day 2 so here&#8217;s an small teaser of what&#8217;s going to happen. You obviously know that Day 1 is going to be an amazing [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p>You may have registered for OHSummit day 2 so here&#8217;s an small teaser of what&#8217;s going to happen. You obviously know that Day 1 is going to be an amazing conference with an incredible amount of great speakers but, we felt it was good to clarify what&#8217;s going on for Day 2 which debuts this year at Open Hardware Summit.</p>
+<p>Day two will be a <strong>community day,</strong> just following the intense agenda of Day 1, will be a moment to connect and learn from the key protagonists.</p>
+<p>As a reminder, please remember to bring your printed tickets to the venue because &#8211; as the event is free &#8211; we may need to limit access once the rooms are full. So be sure to be there early before doors open.</p>
+<p>&nbsp;</p>
+<p><strong>The Worksh<strong>ops</strong></strong></p>
+<p>As you may recall we&#8217;ll have three room. One room will be dedicated to three <strong>beautiful workshops</strong>:</p>
+<ul>
+<li>9:30 WS1 Gabriella Levine: <strong>An Open Source Hardware educational toolkit</strong></li>
+<li>This workshop will expose people to the knitty gritty of Open Source Hardware, engaging with the basics of the definition of OSHW, how to choose licenses, resources for companies and individuals.We will discuss some of the challenges that companies and individuals face, and best practices for releasing an OSHW product. We will discuss the OSHW toolkit, as well as OSHWA’s future plans. We will use this workshop to spur an offline international working group for OSHWA</li>
+</ul>
+<ul>
+<li>11:30 WS2 Benjamin Tincq:<strong> Mapping the Business Models for Open Hardware</strong></li>
+<li>This workshop aims to explore the different business models for OSHW. Based on existing case studies and an initial mapping structured around the manufacturing value chain, we will discuss the strengths, challenges and applicability of different models (ex: product vs service, open design vs open manufacturing, platform model, etc.), and maybe come up with new ideas that haven’t been explored yet.</li>
+<li>15:00 WS3 Eric Pan:<strong> Manufacturing Basics</strong></li>
+<li>This workshop aims to offer a 2 hours experience bringing ideas into real products. We will build a batch of secret-until-OHS-day-2 item from scratch, simulating processes from Design, Prototyping to Manufacturing. Hope you will completely immerse into the pain of under-engineered designs, and re-think DFM (design for manufacture) when walking away.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>The Open Hardware Unconference &#8211; <strong>“Making Open Hardware Scale”</strong></strong></p>
+<p>Another room will be dedicated to a <strong>community &#8220;unconference</strong>&#8221; targeted for 50/70 people that will be based on the format of the <a href="http://en.wikipedia.org/wiki/Open_Space_Technology"><strong>Open Space Technology</strong></a>. In the early morning session you’ll be able to propose your session topics around the theme of<strong> “Making Open Hardware Scale”</strong> (an in general on the topic of Open Hardware). We will enumerate and prioritize the potential sessions to be run during the day and everyone will vote to express her interest. The most voted sessions will be run right at the start while the others will be &#8220;planned&#8221; for the day execution.</p>
+<p>As said, this room will be run accordingly to Open Space Technology format which basically means that session proponents will have to be available to document the session &#8211; in electronic format or paper &#8211; and other folks will be free to roam from one session to another (sessions going on will be easily recognizable). OSHWA already supported an event which looked into Open Hardware and used the same approach. It was the Open Source Hardware Documentation Jam (you can see a <a href="http://www.oshwa.org/2013/05/16/oshw-doc-jam-followups-releasing-the-format-to-the-community/">full report </a>here to understand the basics).</p>
+<p>&nbsp;</p>
+<p><strong>The Office Hours &#8211; Meet And Share and two beautiful Q&amp;A Sessions on Open Hardware</strong></p>
+<p>A third room which we dubbed &#8220;<strong>office hours</strong>&#8221; will be available for people that want to connect with OSHWA and organize small breakout sessions. OSHWA will host two (one in the morning 11AM, one in the afternoon 3 PM) 1 hour long Q&amp;A sessions with key representatives.</p>
+<p>When those Q&amp;A sessions will not run, you&#8217;ll be able to organize small presentations and meetings with other community members, talking about projects and future developments.</p>
+<p>This room will be informal and convivial and we hope you can use this room to get your questions answered by experts and connect your projects and ideas with a bazillion new partners.</p>
+<p>&nbsp;</p>
+<p><strong>Getting to the venue</strong></p>
+<p>To get to our wonderful venue for this year you can follow the instructions here &gt; <a href="http://www.auditorium.com/en/info/come-si-arriva">http://www.auditorium.com/en/info/come-si-arriva</a></p>
+<p>In general, it&#8217;s pretty straightforward to get there by public tram: the tram N. 2 will bring you there in just four stops from the starting stop which is located in <a href="http://goo.gl/GHuN0E"><strong>Piazzale Flaminio.</strong> </a>Tram 2 starts about every 6 minutes. You can get there by METRO A (Flaminio &#8211; Piazza del Popolo Stop).</p>
+<p>You can easily find Taxi parking lots around Rome but, in case you need one you can call one of the taxi companies: the easiest way can be to call +39 3570 and ask for a Taxi Gold service (CC payment, English speaking drivers). A Taxi Parking should be found also in Piazzale Flaminio which is the nearest metro stop to the Auditorium.</p>
+<p>Also you can use Uber (which is available in Rome) or similar services obviously.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">445</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Speakers	</title>
+	<atom:link href="/speakers/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>September 30 + October 1 2014 in Rome, Italy</description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:52:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Arduino Blog &#187; Blog Archive &#187; From Open Making to Open Manufacturing at Open Hardware Summit in Rome		</title>
+		<link>/speakers/#comment-66</link>
+
+		<dc:creator><![CDATA[Arduino Blog &#187; Blog Archive &#187; From Open Making to Open Manufacturing at Open Hardware Summit in Rome]]></dc:creator>
+		<pubDate>Mon, 25 Aug 2014 15:37:29 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=61#comment-66</guid>
+
+					<description><![CDATA[[&#8230;] The topic of this edition of the Summit wants to reflect on how production models are shifting from one to one, to one to many structure and the latest schedule features several outstanding speakers of the open hardware scene such as Adrian Bowyer (father of RepRap), Tomas Diez (Fab Lab Barcelona Director), Yasmin Elayat (GOOD fellow), Becky Stern (Director of Wearable Electronics, Adafruit Industries), Eric Pan (Founder, Seeed Studio, Forbes China’s 30 under 30), David Lang (OpenROV Founder, Author of Zero to Maker), Gawin Dapper (CTO, Phonebloks), Nick Ierodiaconou (Co-Founder Open Desk), Phoenix Perry (Founder, Code Liberation) and many more. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] The topic of this edition of the Summit wants to reflect on how production models are shifting from one to one, to one to many structure and the latest schedule features several outstanding speakers of the open hardware scene such as Adrian Bowyer (father of RepRap), Tomas Diez (Fab Lab Barcelona Director), Yasmin Elayat (GOOD fellow), Becky Stern (Director of Wearable Electronics, Adafruit Industries), Eric Pan (Founder, Seeed Studio, Forbes China’s 30 under 30), David Lang (OpenROV Founder, Author of Zero to Maker), Gawin Dapper (CTO, Phonebloks), Nick Ierodiaconou (Co-Founder Open Desk), Phoenix Perry (Founder, Code Liberation) and many more. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: What&#8217;s happening in Rome..		</title>
+		<link>/speakers/#comment-52</link>
+
+		<dc:creator><![CDATA[What&#8217;s happening in Rome..]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2014 07:21:33 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=61#comment-52</guid>
+
+					<description><![CDATA[[&#8230;] Speakers [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Speakers [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Zack Jacobson-Weaver &#124; Innovation week		</title>
+		<link>/speakers/#comment-49</link>
+
+		<dc:creator><![CDATA[Zack Jacobson-Weaver &#124; Innovation week]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2014 17:11:49 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=61#comment-49</guid>
+
+					<description><![CDATA[[&#8230;] Zack Jacobson-Weaver is currently a PhD at Colorado University’s ATLAS Institute asking, “How can open-source empower every willing to teacher become a ‘public school’?”. He explores the true, grassroots maker movement and its utilization of open-source hardware and software as the catalyst for anti-standardized, anti-disciplinary post-public education. Most recently, he taught digital fabrication and interaction design at the School of Architecture, Carnegie Mellon University in Pittsburgh, USA. While there as part of the ‘Human-Machine Virtuosity’ research group in robotic and interactive fabrication, Zack applied open-source sensibility to the development of a ‘Universal Peripheral Adaptor’, to encourage collaboration and open tools within this small community. Zack is a graduate of Carnegie Mellon’s Master of Tangible Interaction Design and the University of Michigan School of Art and Design. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Zack Jacobson-Weaver is currently a PhD at Colorado University’s ATLAS Institute asking, “How can open-source empower every willing to teacher become a ‘public school’?”. He explores the true, grassroots maker movement and its utilization of open-source hardware and software as the catalyst for anti-standardized, anti-disciplinary post-public education. Most recently, he taught digital fabrication and interaction design at the School of Architecture, Carnegie Mellon University in Pittsburgh, USA. While there as part of the ‘Human-Machine Virtuosity’ research group in robotic and interactive fabrication, Zack applied open-source sensibility to the development of a ‘Universal Peripheral Adaptor’, to encourage collaboration and open tools within this small community. Zack is a graduate of Carnegie Mellon’s Master of Tangible Interaction Design and the University of Michigan School of Art and Design. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Nadya Peek &#124; Innovation week		</title>
+		<link>/speakers/#comment-48</link>
+
+		<dc:creator><![CDATA[Nadya Peek &#124; Innovation week]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2014 17:04:05 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=61#comment-48</guid>
+
+					<description><![CDATA[[&#8230;] Nadya Peek is a PhD student at the MIT Center for Bits and Atoms, where they work at the intersection between physical science and digital science. Nadya Peek works on unconventional digital fabrication tools, small scale automation, networked control systems, and advanced manufacturing. Nadya Peek is also an active member of the fablab community, working on making digital fabrication more accessible with better cad/cam tools and developing open source (hardware) machines and control systems. The machines from the machines that make project are designed to be made using the tools available in fablabs, helping users take digital fabrication home. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Nadya Peek is a PhD student at the MIT Center for Bits and Atoms, where they work at the intersection between physical science and digital science. Nadya Peek works on unconventional digital fabrication tools, small scale automation, networked control systems, and advanced manufacturing. Nadya Peek is also an active member of the fablab community, working on making digital fabrication more accessible with better cad/cam tools and developing open source (hardware) machines and control systems. The machines from the machines that make project are designed to be made using the tools available in fablabs, helping users take digital fabrication home. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Madeline Gannon &#124; Innovation week		</title>
+		<link>/speakers/#comment-47</link>
+
+		<dc:creator><![CDATA[Madeline Gannon &#124; Innovation week]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2014 17:02:44 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=61#comment-47</guid>
+
+					<description><![CDATA[[&#8230;] Madeline Gannon is a Researcher / Designer / Educator whose work merges disciplinary knowledge from architecture, robotics, computer science, human-computer interaction, and design. Her research investigates digital-to-analog feedback loops in the context of craft, tectonics, aesthetics, and interaction, and seeks the edges of digital creativity. Gannon is currently pursuing a PhD in Computational Design from Carnegie Mellon University. She also holds a Masters of Science of Computational Design from Carnegie Mellon University, and Masters of Architecture from Florida International University. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Madeline Gannon is a Researcher / Designer / Educator whose work merges disciplinary knowledge from architecture, robotics, computer science, human-computer interaction, and design. Her research investigates digital-to-analog feedback loops in the context of craft, tectonics, aesthetics, and interaction, and seeks the edges of digital creativity. Gannon is currently pursuing a PhD in Computational Design from Carnegie Mellon University. She also holds a Masters of Science of Computational Design from Carnegie Mellon University, and Masters of Architecture from Florida International University. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Liat Brix-Etgar &#124; Innovation week		</title>
+		<link>/speakers/#comment-46</link>
+
+		<dc:creator><![CDATA[Liat Brix-Etgar &#124; Innovation week]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2014 17:01:37 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=61#comment-46</guid>
+
+					<description><![CDATA[[&#8230;] Liat Brix-Etgar is an architect, researcher and lecturer. She is the head and the initiator of “Civil Architecture” Research Unit in the Department of Architecture in Bezalel Academy for Arts and Design, Jerusalem. The unit interlaces design studio, political theory, planning and activism. It seeks to develop collaborative, open and deeply inclusive civil infrastructure, capacities and practices that would push towards democratizing planning processes. Liat received her B.Arch degree from the Bezalel Academy in Jerusalem and her M.A in philosophy (summa cum lauda) from the Tel Aviv University where she wrote her thesis about “The Spatial-Political Lexicon of Jean Luc Nancy”. She is an architect and associate in Tehiru Group in Tel Aviv. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Liat Brix-Etgar is an architect, researcher and lecturer. She is the head and the initiator of “Civil Architecture” Research Unit in the Department of Architecture in Bezalel Academy for Arts and Design, Jerusalem. The unit interlaces design studio, political theory, planning and activism. It seeks to develop collaborative, open and deeply inclusive civil infrastructure, capacities and practices that would push towards democratizing planning processes. Liat received her B.Arch degree from the Bezalel Academy in Jerusalem and her M.A in philosophy (summa cum lauda) from the Tel Aviv University where she wrote her thesis about “The Spatial-Political Lexicon of Jean Luc Nancy”. She is an architect and associate in Tehiru Group in Tel Aviv. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jason Kridner &#124; Innovation week		</title>
+		<link>/speakers/#comment-45</link>
+
+		<dc:creator><![CDATA[Jason Kridner &#124; Innovation week]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2014 16:56:51 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=61#comment-45</guid>
+
+					<description><![CDATA[[&#8230;] Jason Kridner is a software architecture manager for embedded processors at Texas Instruments (TI). Kridner is also the co-founder of BeagleBoard.org, where he has helped create open-source development tools such as BeagleBone Black, BeagleBone, BeagleBoard and BeagleBoard-xM. During his 20-year tenure with TI, Kridner has become an active leader in the open source community. He has engaged audiences at a variety of industry and hardware and software developer shows, including Maker Faire, Embedded Linux Conference, Android Builders Summit, OSCON, CES, Design West, Collaboration Summit and Design East. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Jason Kridner is a software architecture manager for embedded processors at Texas Instruments (TI). Kridner is also the co-founder of BeagleBoard.org, where he has helped create open-source development tools such as BeagleBone Black, BeagleBone, BeagleBoard and BeagleBoard-xM. During his 20-year tenure with TI, Kridner has become an active leader in the open source community. He has engaged audiences at a variety of industry and hardware and software developer shows, including Maker Faire, Embedded Linux Conference, Android Builders Summit, OSCON, CES, Design West, Collaboration Summit and Design East. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Hannah Stewart &#124; Innovation week		</title>
+		<link>/speakers/#comment-44</link>
+
+		<dc:creator><![CDATA[Hannah Stewart &#124; Innovation week]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2014 16:54:53 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=61#comment-44</guid>
+
+					<description><![CDATA[[&#8230;] Hannah Stewart is a Phd researcher with the Creative Exchange, an AHRC knowledge exchange hub in Lancaster University. Her background is within the digital and cultural industries, where she has a profile both as a maker and as a business director. As an academic her interests lies in the areas of open-source communities of practice and how these exist outside the traditional market paradigm. Trained in both traditional crafts and machine programming, this span of interests and corporate empathy cross-pollinates her research and academic practice. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Hannah Stewart is a Phd researcher with the Creative Exchange, an AHRC knowledge exchange hub in Lancaster University. Her background is within the digital and cultural industries, where she has a profile both as a maker and as a business director. As an academic her interests lies in the areas of open-source communities of practice and how these exist outside the traditional market paradigm. Trained in both traditional crafts and machine programming, this span of interests and corporate empathy cross-pollinates her research and academic practice. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Hagit Keysar &#124; Innovation week		</title>
+		<link>/speakers/#comment-43</link>
+
+		<dc:creator><![CDATA[Hagit Keysar &#124; Innovation week]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2014 16:53:43 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=61#comment-43</guid>
+
+					<description><![CDATA[[&#8230;] Hagit Keysar’s work brings together theory, activism and art practices, she is currently a PhD candidate at the Politics and Government department in Ben Gurion University, Israel, and since 2011 she takes part in the Public Lab’s community of practitioners. Hagit’s research concerns open-source, citizen-driven map-making technologies in Jerusalem. One piece at a time, she explores the political implications of collaborative technologies and do-it-yourself practices in spaces of conflict and civil inequality. Through long-term collaborative work with residents in the city she seeks to develop tools-in-context that would intervene in the shaping of our geographic imaginary, engaging people in exposing the invisible through critical seeing and doing. Hagit holds a Masters degree in Visual Anthropology from the University of Manchester (UK) and a BA in Fine Arts from the Bezalel Academy for Arts and Design, Jerusalem. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Hagit Keysar’s work brings together theory, activism and art practices, she is currently a PhD candidate at the Politics and Government department in Ben Gurion University, Israel, and since 2011 she takes part in the Public Lab’s community of practitioners. Hagit’s research concerns open-source, citizen-driven map-making technologies in Jerusalem. One piece at a time, she explores the political implications of collaborative technologies and do-it-yourself practices in spaces of conflict and civil inequality. Through long-term collaborative work with residents in the city she seeks to develop tools-in-context that would intervene in the shaping of our geographic imaginary, engaging people in exposing the invisible through critical seeing and doing. Hagit holds a Masters degree in Visual Anthropology from the University of Manchester (UK) and a BA in Fine Arts from the Bezalel Academy for Arts and Design, Jerusalem. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Benedetta Piantella &#124; Innovation week		</title>
+		<link>/speakers/#comment-42</link>
+
+		<dc:creator><![CDATA[Benedetta Piantella &#124; Innovation week]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2014 16:44:34 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=61#comment-42</guid>
+
+					<description><![CDATA[[&#8230;] Benedetta Piantella is a designer turned humanitarian technologist. She has taught Lego robotics, worked for Arduino in Italy and Smart Design in NYC, producing interactive prototypes for high-end clients. She has founded two engineering R&#038;D companies focused on producing sustainable solutions to humanitarian, social, environmental challenges worldwide. She has built partnerships with organizations such as the UN, UNICEF, The Millennium Villages Project, Universities such as NYU, Columbia and Princeton and multiple NGOs and has designed, prototyped and deployed projects in countries such as Uganda, Kenya and Tanzania. She was Technology Architect for the Earth Institute and the Sustainable Engineering Lab at Columbia University, she is an Open Source advocate and is currently a faculty member at NYU-ITP where she teaches Physical Computing and Engineering for Development. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Benedetta Piantella is a designer turned humanitarian technologist. She has taught Lego robotics, worked for Arduino in Italy and Smart Design in NYC, producing interactive prototypes for high-end clients. She has founded two engineering R&amp;D companies focused on producing sustainable solutions to humanitarian, social, environmental challenges worldwide. She has built partnerships with organizations such as the UN, UNICEF, The Millennium Villages Project, Universities such as NYU, Columbia and Princeton and multiple NGOs and has designed, prototyped and deployed projects in countries such as Uganda, Kenya and Tanzania. She was Technology Architect for the Earth Institute and the Sustainable Engineering Lab at Columbia University, she is an Open Source advocate and is currently a faculty member at NYU-ITP where she teaches Physical Computing and Engineering for Development. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

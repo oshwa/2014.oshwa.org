@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>speakers &#8211; 2014 Open Hardware Summit</title>
+	<atom:link href="/tag/speakers/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>September 30 + October 1 2014 in Rome, Italy</description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:55:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Updates on Speakers</title>
+		<link>/2014/09/25/updates-on-speakers/</link>
+		
+		<dc:creator><![CDATA[Addie Wagenknecht]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2014 16:57:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[speakers]]></category>
+		<category><![CDATA[updates]]></category>
+		<guid isPermaLink="false">/?p=480</guid>
+
+					<description><![CDATA[Unfortunately we have to announce that David Lang will not be able to speak at Open Hardware Summit this year due to a personal conflict, instead David Cuartielles, Arduino Co-Founder [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p>Unfortunately we have to announce that <strong>David Lang</strong> will not be able to speak at Open Hardware Summit this year due to a personal conflict, instead <strong>David Cuartielles</strong>, Arduino Co-Founder and a well known member of the Open Hardware community will join us in the opening remarks! Woot!</p>
+<p><span style="color: #ff0000"><strong>Important notice</strong></span>: please be aware that you&#8217;ll need to print your ticket as we will need this to speed up the check in process. The Auditorium will recycle all the paper used for tickets.</p>
+<p>PS: did you see our post on what will be going on on <strong><a title="What’s going to happen on OHsummit Day 2 + How to reach the Venue" href="/2014/09/18/whats-going-to-happen-on-ohsummit-day-2-how-to-reach-the-venue/">day 2 and how to reach the venue</a>?</strong></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">480</post-id>	</item>
+	</channel>
+</rss>

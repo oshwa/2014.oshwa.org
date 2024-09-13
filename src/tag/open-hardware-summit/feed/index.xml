@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>open hardware summit &#8211; 2014 Open Hardware Summit</title>
+	<atom:link href="/tag/open-hardware-summit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>September 30 + October 1 2014 in Rome, Italy</description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:55:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Open Hardware Summit Livestream</title>
+		<link>/2014/09/23/open-hardware-summit-livestream/</link>
+		
+		<dc:creator><![CDATA[Addie Wagenknecht]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2014 10:18:49 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[open hardware summit]]></category>
+		<category><![CDATA[Rome]]></category>
+		<category><![CDATA[streaming]]></category>
+		<guid isPermaLink="false">/?p=466</guid>
+
+					<description><![CDATA[As you may know, this year Open Hardware Summit is being hosted as one of the events in the Innovation Week Rome. It&#8217;s a week long festival that will end [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p>As you may know, this year Open Hardware Summit is being hosted as one of the events in the <a href="http://www.makerfairerome.eu/en/"><strong>Innovation Week Rome. </strong></a>It&#8217;s a week long festival that will end with the European Maker Faire. All the the events, including the Summit will be taking place at <a href="http://www.auditorium.com/en/info/come-si-arriva">Rome&#8217;s Auditorium</a>. The streaming link for the Summit will be available on both the Innovation Week&#8217;s website and ours.</p>
+<p>The link to the livestream will be published here when it&#8217;s available, so please check back prior to the Summit&#8217;s opening remarks..!</p>
+<p>&nbsp;</p>
+<p><a href="/files/2014/09/Green_screen_live_streaming_production_at_Mediehuset_København.jpg"><img decoding="async" class="alignleft  wp-image-467" src="/files/2014/09/Green_screen_live_streaming_production_at_Mediehuset_København-150x150.jpg" alt="Green_screen_live_streaming_production_at_Mediehuset_København" width="157" height="157" /></a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">466</post-id>	</item>
+	</channel>
+</rss>

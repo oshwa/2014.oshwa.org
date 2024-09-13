@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Tickets are Open!	</title>
+	<atom:link href="/2014/07/16/tickets-are-open/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/07/16/tickets-are-open/</link>
+	<description>September 30 + October 1 2014 in Rome, Italy</description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:56:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Nahid Alam		</title>
+		<link>/2014/07/16/tickets-are-open/#comment-38</link>
+
+		<dc:creator><![CDATA[Nahid Alam]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2014 06:01:47 +0000</pubDate>
+		<guid isPermaLink="false">/?p=297#comment-38</guid>
+
+					<description><![CDATA[Open Hardware Summit 2014 - Co-chair, reviewer, presenter.]]></description>
+			<content:encoded><![CDATA[<p>Open Hardware Summit 2014 &#8211; Co-chair, reviewer, presenter.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
